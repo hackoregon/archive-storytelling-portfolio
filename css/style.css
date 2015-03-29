@@ -69,6 +69,7 @@ br {
     border: 1px solid #fff;
     transition: 0.3s;
     padding: 10px 20px;
+    margin-top: 20px;
 }
 .view:hover {
     transition: 0.3s;
@@ -93,6 +94,10 @@ br {
   border: 1px solid #fff;
   border-radius: 100px;
   background-opacity: 0.5;
+}
+
+.margin {
+   margin-bottom: 40px;
 }
 
 .blue {
